@@ -4,7 +4,7 @@ An isometric tower defense game built with **Phaser 3** and **TypeScript**, feat
 
 ## 🎮 Play Now
 
-**Live Demo:** [https://towerdefense-two.vercel.app](https://towerdefense-two.vercel.app)
+Live environment: [https://td.sametozkan.com.tr](https://td.sametozkan.com.tr)
 
 ## ✨ Features
 
