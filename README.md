@@ -34,7 +34,7 @@ Live environment: [https://td.sametozkan.com.tr](https://td.sametozkan.com.tr)
 
 1.  **Clone the repo:**
     ```bash
-    git clone https://github.com/devsamet/spoon-tower-defense.git
+    git clone https://github.com/voyvodka/spoon-tower-defense.git
     cd spoon-tower-defense
     ```
 
