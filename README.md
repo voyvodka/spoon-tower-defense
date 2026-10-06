@@ -2,10 +2,6 @@
 
 An isometric tower defense game built with **Phaser 3** and **TypeScript**, featuring a unique "kitchen cutlery" theme. Defend your base against waves of rogue kitchenware using specialized spoon and fork towers!
 
-## 🎮 Play Now
-
-Live environment: [https://td.sametozkan.com.tr](https://td.sametozkan.com.tr)
-
 ## ✨ Features
 
 *   **Isometric Perspective:** Beautiful 2.5D graphics using Kenney's assets.
